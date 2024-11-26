@@ -47,3 +47,4 @@ print(
 # Print detailed pixel counts for each intensity
 for intensity, count in enumerate(histogram):
     print(f"Intensitas {intensity}: {count} piksel")
+    
